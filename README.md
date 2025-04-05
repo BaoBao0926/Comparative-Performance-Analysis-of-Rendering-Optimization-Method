@@ -5,7 +5,7 @@ In the field of computer game development, Unity Technologies' game engine has a
 
 
 ### Authors:
-- **[Muyi Bao](https://github.com/BaoBao0926/BaoBao0926.github.io)**, **Shuchang Lyu**, **Zeren Tao**, **Xiaohan Wang**, **Jiashuo Liu**, **Qilei Sun**
+- **[Muyi Bao](https://github.com/BaoBao0926/BaoBao0926.github.io)**, **Zeren Tao**, **Xiaohan Wang**, **Jiashuo Liu**, **Qilei Sun**
 
 
 # Experimental Design
